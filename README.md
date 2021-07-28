@@ -7,3 +7,7 @@
 
 ## 온라인 코드 리뷰 과정
 * [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
+
+## 🚀 1단계 - 문자열 덧셈 계산기 Todo-List 🎯
+- [ ] 커스텀 구분자를 인자로 받고 문자열 배열을 반환하는 기능(extractNumber) 구현
+- [ ] 문자열 배열을 인자로 받아 음수문자열(-로 시작하여 숫자로 끝나는 문자열) 포함 여부 기능 구현
